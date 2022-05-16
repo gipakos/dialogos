@@ -1,0 +1,8 @@
+/home/gipas/dev/devopsTFF/dialogos/bin/Release/net6.0/publish/dialogos
+/home/gipas/dev/devopsTFF/dialogos/bin/Release/net6.0/publish/appsettings.Development.json
+/home/gipas/dev/devopsTFF/dialogos/bin/Release/net6.0/publish/appsettings.json
+/home/gipas/dev/devopsTFF/dialogos/bin/Release/net6.0/publish/libman.json
+/home/gipas/dev/devopsTFF/dialogos/bin/Release/net6.0/publish/dialogos.dll
+/home/gipas/dev/devopsTFF/dialogos/bin/Release/net6.0/publish/dialogos.deps.json
+/home/gipas/dev/devopsTFF/dialogos/bin/Release/net6.0/publish/dialogos.runtimeconfig.json
+/home/gipas/dev/devopsTFF/dialogos/bin/Release/net6.0/publish/dialogos.pdb
