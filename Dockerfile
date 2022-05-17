@@ -10,7 +10,7 @@ RUN dotnet restore
 RUN dotnet publish -c Release -o out -r linux-arm
 
 # Build runtime image
-FROM mcr.microsoft.com/dotnet/aspnet:6.0.5-bullseye-slim-arm64v8
+FROM mcr.microsoft.com/dotnet/aspnet:6.0.5-bullseye-slim-arm32v7
 EXPOSE 5000
 WORKDIR /dialogos
 COPY --from=build-env /dialogos/out .
